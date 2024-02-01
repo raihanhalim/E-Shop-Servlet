@@ -1,0 +1,14 @@
+com/mycompany/e/shop/dao/CategoryDao.class
+com/mycompany/e/shop/helper/Helper.class
+com/mycompany/e/shop/servlets/LoginServlet.class
+com/mycompany/e/shop/helper/FactoryProvider.class
+com/mycompany/e/shop/JakartaRestConfiguration.class
+com/mycompany/e/shop/entities/Product.class
+com/mycompany/e/shop/entities/User.class
+com/mycompany/e/shop/dao/UserDao.class
+com/mycompany/e/shop/entities/Category.class
+com/mycompany/e/shop/resources/JakartaEE10Resource.class
+com/mycompany/e/shop/dao/ProductDao.class
+com/mycompany/e/shop/servlets/RegisterServlet.class
+com/mycompany/e/shop/servlets/ProductOperationServlet.class
+com/mycompany/e/shop/servlets/LogoutServlet.class

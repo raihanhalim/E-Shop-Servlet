@@ -1,0 +1,14 @@
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/entities/User.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/helper/Helper.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/servlets/LoginServlet.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/dao/UserDao.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/servlets/ProductOperationServlet.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/entities/Category.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/dao/ProductDao.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/dao/CategoryDao.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/servlets/LogoutServlet.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/servlets/RegisterServlet.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/resources/JakartaEE10Resource.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/entities/Product.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/JakartaRestConfiguration.java
+/home/newbienob/NetBeansProjects/E-Shop/src/main/java/com/mycompany/e/shop/helper/FactoryProvider.java
